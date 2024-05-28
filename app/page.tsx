@@ -38,7 +38,7 @@ export default function Home() {
           priority
         />
       </div>
-      <h1 className="text-4xl font-bold text-blue-500 text-center lg:mt-24 lg:text-6xl lg:text-left">
+      <h1 className="text-4xl font-bold text-red-500 text-center lg:mt-24 lg:text-6xl lg:text-left">
         Hello World!
       </h1>
 
